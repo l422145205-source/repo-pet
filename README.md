@@ -85,7 +85,7 @@ python scripts/repopet.py render --repo ../your-project --junit ../your-project/
 
 渲染器只读取汇总测试结果和提交总数，不收集作者邮箱、提交说明、远程地址或源文件路径。名字由你指定，公开演示建议用昵称。README 编辑只动 `repopet:start` / `repopet:end` 之间的内容，模糊标记会停止修改。
 
-像素龙由代码原创绘制。没有随意下载的角色素材，也没有把失败 CI 涂绿的魔法。
+像素龙由代码原创绘制，生成的状态与测试证据一起保留。
 
 ## 下一只想养什么？
 

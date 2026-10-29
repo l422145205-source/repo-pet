@@ -71,7 +71,7 @@ You receive `pet.gif`, `pet.png` and `status.json`. These are snapshots: rerun t
 
 Only aggregate test results and commit counts enter the generated snapshot. No author emails, commit messages, remote URLs or source paths. Choose a public-safe pet name. README updates stay inside the owned marker block and refuse ambiguous markers.
 
-All sprites are original code-drawn artwork. No character downloads. No magic that turns failing CI green.
+All sprites are original code-drawn artwork. Each generated mood follows the supplied evidence.
 
 Want a new expression, palette or original creature? Bring your idea to [Issues](https://github.com/l422145205-source/repo-pet/issues). If Patch adds a little joy to your README, a **Star** helps the next dragon keeper discover it.
 
